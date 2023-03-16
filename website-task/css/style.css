@@ -4,6 +4,10 @@
 body {
   font-weight: 400;
 }
+html {
+  scroll-behavior: smooth;
+}
+body
 #nav-1 {
   background-color: #091e3e;
   height: 44px;
@@ -916,11 +920,11 @@ hr {
 }
 .raq-1 {
   color: #06a3da;
-  font-size: 1.1 rem;
+  font-size: 1.1rem;
   line-height: 1.2;
   margin-bottom: 0.5rem;
   font-family: "Nunito", sans-serif;
-  font-weight: 800;
+  font-weight: 600;
   word-spacing: 8px;
 }
 .raq-2 {
@@ -1211,7 +1215,7 @@ hr {
   width: 1162px;
   position: relative;
   top: 553px;
-  left: 135px;
+  left: 133px;
 }
 
 .end {
@@ -1306,7 +1310,7 @@ hr {
   position: relative;
   left: 18px;
   top: 527px;
-  width: 1348px;
+  width: 1349px;
   height: 353px;
   margin-top: 211px;animation-name: footer;
   animation-timing-function: linear;
@@ -1378,3 +1382,5 @@ hr {
   padding-left: 1px;
   height: 49px;
 }
+
+
