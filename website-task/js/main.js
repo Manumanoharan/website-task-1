@@ -1,5 +1,6 @@
 
 
+
 function animationIn1() {
     document.getElementById('ani-1').style.transition = 'all 0.5s linear'
     document.getElementById('ani-1').style.transform = 'scale(1)'
@@ -280,7 +281,7 @@ function myFunction() {
     colr.classList.add("change-color-1")
     colr1.classList.add("change-color-1")
     colr2.classList.add("change-color-1")
-    colr3.classList.add("change-color-1")
+    colr3.classList.add("change-color-1")    
     colr4.classList.add("change-color-1")
     colr5.classList.add("change-color-1")
     starts.classList.add("change-color-2")
